@@ -1,3 +1,3 @@
 # fl
-
+#Allows you to play flash files in browsers...
 #Replace all "Source" with the .swf file name. e.g: "flash.swf"
